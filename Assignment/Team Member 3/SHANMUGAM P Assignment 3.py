@@ -51,5 +51,4 @@ while True:
  time.sleep(2)
  # Amber off (red comes on at top of loop)
  GPIO.output(10, False)
-Footer
-© 2022 GitHub, Inc.
+
